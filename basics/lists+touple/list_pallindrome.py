@@ -7,3 +7,4 @@ copy_list1.reverse()
 if (list1==copy_list1):
     print(f"the list {list1} is pallindrome")
 
+
